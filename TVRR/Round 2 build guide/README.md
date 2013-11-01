@@ -19,4 +19,4 @@ A guide to assembling the TVRR Prusa kit;
 
 ...
 
-This guide will be released as a set of pdf and odg (LibreOffice draw) files together with the set of sketchup components created to produce the diagrams. ALl material will be published under the creative commons Attribution-ShareAlike 3.0 Unported licence
+This guide will be released as a set of pdf and odg (LibreOffice draw) files together with the set of sketchup components created to produce the diagrams. All material will be published under the creative commons Attribution-ShareAlike 3.0 Unported licence
