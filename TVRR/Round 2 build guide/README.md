@@ -17,6 +17,8 @@ A guide to assembling the TVRR Prusa kit;
 
 6 - assembling the Y axis
 
+7 - assembling the X axis
+
 ...
 
 This guide will be released as a set of pdf and odg (LibreOffice draw) files together with the set of sketchup components created to produce the diagrams. All material will be published under the creative commons Attribution-ShareAlike 3.0 Unported licence
