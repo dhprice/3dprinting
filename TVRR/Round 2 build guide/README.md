@@ -15,15 +15,27 @@ A guide to assembling the TVRR Prusa kit;
 
 5 - tightening the frame v1.1
 
-6 - assembling the Y axis v1.2
+6 - assembling the Y axis v1.3
 
 7 - assembling the X axis v1.2
 
 8 - assembling the Z axis v1.0
 
-9 - assembling the extruder v1.0
+9 - assembling the extruder v1.1
 
 This guide is released as a set of pdf documents together with the set of sketchup components created to produce the diagrams. All material is published under the creative commons Attribution-ShareAlike 3.0 Unported licence
+
+Changes at 06-Feb-2014
+======================
+
+Part 6
+
+- corrected cap screw sizes on pages 3 and 11 from M3x10 to M3x12.
+
+Part 9
+
+- corrected cap screw sizes on pages 4 and 10 from M3x10 to M3x12.
+
 
 Changes at 24-Nov-2013
 ======================
